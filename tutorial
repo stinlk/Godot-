@@ -1,0 +1,14 @@
+// Animation player in Godot 2D 
+  // Create CharacterBody 2D 
+    // For create AnimatedSprite 2D. 
+      // Going in AnimatedSprite 2D on the right side. This time click in "Sprite Frames" and then in "empty" after "New Sprite Frames". 
+      // Add through "Assets". In the store there is buy free assets. 
+      // Click in "Grade" when selecting "New Sprite Frames" and add the frames.
+        // OBS: TO ADD THE FRAMES, ARRANGE USING THE CONFIGURATIONS, PLACING AND SEPARATING IT ACCORDING TO THE DRAWING. CLICK ON "SELECT/CLEAR ALL FRAMES".
+        
+// Collision player 2D 
+  // Then create object CharacterBody 2D, create CollisionShape2D. Remember this is inside the player object. 
+    // Going in CollisionShape2D on the right side and select "Shape" choice "Rectangle" or other of your preference.
+
+// Mover player
+  // Right click on the player object and add script.
